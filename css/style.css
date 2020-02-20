@@ -1,11 +1,11 @@
 .kotak {
-    height: 10px;
+    height:8px;
     width: 100%;
     background-color: black;
 }
 
 .kotak-50 {
-    height: 10px;
+    height: 8px;
     width: 50%;
     background-color: black;
 }
@@ -14,4 +14,14 @@
     height: 5px;
     width: 15%;
     background-color: black;
+}
+
+.kotak-75 {
+    height: 8px;
+    width: 75%;
+    background-color: black;
+}
+
+.textsmall {
+    font-size: 15px;
 }
