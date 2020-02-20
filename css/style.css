@@ -1,0 +1,17 @@
+.kotak {
+    height: 10px;
+    width: 100%;
+    background-color: black;
+}
+
+.kotak-50 {
+    height: 10px;
+    width: 50%;
+    background-color: black;
+}
+
+.kotak-divider-15 {
+    height: 5px;
+    width: 15%;
+    background-color: black;
+}
