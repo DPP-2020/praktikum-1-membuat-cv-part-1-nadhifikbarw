@@ -22,7 +22,7 @@
     background-color: rgb(72, 67, 67);
 }
 
-.textsmall {
+.fs-15 {
     font-size: 15px;
 }
 
@@ -32,4 +32,17 @@ div.warna-jumbotron {
 
 .jumbotron > * {
     font-family: "Open Sans";
+}
+
+.fs-48 {
+    font-size: 48px;
+    
+}
+
+.text-bold {
+    font-weight: 700;
+}
+
+.card-title {
+    letter-spacing: 1.5px;
 }
