@@ -1,13 +1,13 @@
 .kotak {
     height:8px;
     width: 100%;
-    background-color: black;
+    background-color: rgb(72, 67, 67);
 }
 
 .kotak-50 {
     height: 8px;
     width: 50%;
-    background-color: black;
+    background-color: rgb(72, 67, 67);
 }
 
 .kotak-divider-15 {
@@ -19,9 +19,17 @@
 .kotak-75 {
     height: 8px;
     width: 75%;
-    background-color: black;
+    background-color: rgb(72, 67, 67);
 }
 
 .textsmall {
     font-size: 15px;
+}
+
+div.warna-jumbotron {
+    background-color: white;
+}
+
+.jumbotron > * {
+    font-family: "Open Sans";
 }
